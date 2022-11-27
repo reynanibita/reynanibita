@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+### I'm Reynan Ibita
+### Bachelor of Science in Computer Science (2023)
+- 🔭 I’m currently working as Freelancer.
+- 🌱 I’m currently learning Django framework and PHP.
+- 👯 I’m looking to collaborate on building different king of website.
+- 🤔 I’m looking for help with how to build properly websites.
+- 📫 How to reach me: [Gmail: reynanvibita@gmail.com]
+- ⚡ Fact: Graphic Designer, Video Editor and Photo Editing.
 <!--
 **reynanibita/reynanibita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
